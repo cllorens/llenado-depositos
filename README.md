@@ -120,3 +120,9 @@ Por el USB (115200) y por UDP broadcast al puerto 1024 de la red local.
   cerámica y la externa (U.FL).
 - `lib/ha_mqtt_discover`: funciones de autodiscover de Home Assistant sobre PubSubClient (sensor,
   interruptor, número, pulsador...).
+
+## Desarrollo
+
+Proyecto desarrollado con la ayuda de [Claude Code](https://claude.com/claude-code), el asistente de
+programación de Anthropic: firmware, driver del sensor, integración con Home Assistant y pruebas en
+la placa real.
